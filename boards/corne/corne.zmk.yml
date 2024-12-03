@@ -1,0 +1,10 @@
+file_format: "1"
+id: corne
+name: Corne
+type: shield
+requires: [nice_nanoV2]
+features:
+  - keys
+siblings:
+  - corne_left
+  - corne_right
